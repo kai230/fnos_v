@@ -1,0 +1,6 @@
+{
+  "name": "vercel-tailscale-proxy",
+  "version": "1.0.0",
+  "description": "Proxy to Tailscale flyniu",
+  "private": true
+}
